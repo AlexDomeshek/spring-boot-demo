@@ -1,4 +1,4 @@
-package org.demo.springbootdemo.autoscan;
+package org.demo.springbootdemo.example2.autoscan;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
