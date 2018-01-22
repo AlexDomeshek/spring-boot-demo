@@ -1,2 +1,13 @@
 server:
   port: 8888
+endpoints:
+  env:
+    sensitive: false
+    enabled: true
+security:
+  user:
+    name: admin
+    password: secret
+management:
+  port: 8081 # security purposes
+  context-path: /manage
