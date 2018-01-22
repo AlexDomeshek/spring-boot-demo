@@ -13,6 +13,7 @@
     <modules>
         <module>example1</module>
         <module>actuator</module>
+        <module>testing</module>
 
     </modules>
 </project>
