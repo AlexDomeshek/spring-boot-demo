@@ -16,7 +16,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT
         , classes = SpringBootApp4Testing.class
 )
-public class HelloWorldTest {
+public class HelloWorldFullTestTest {
 
     @Autowired
     private TestRestTemplate testRestTemplate;

@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller4Testing {
 
     @RequestMapping("/sayHello")
-    String sayHello(@RequestParam("name") String name){
+    public String sayHello(@RequestParam("name") String name){
         return "Hello, "+name;
     }
 }
