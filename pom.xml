@@ -11,9 +11,10 @@
 
 
     <modules>
-        <module>example1</module>
+        <module>intro</module>
         <module>actuator</module>
         <module>testing</module>
+        <module>autoconfiguration</module>
 
     </modules>
 </project>
