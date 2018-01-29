@@ -1,4 +1,4 @@
-package com.example.example2.autoscan;
+package com.example;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
